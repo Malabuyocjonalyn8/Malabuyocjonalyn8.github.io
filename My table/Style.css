@@ -1,0 +1,28 @@
+body {
+  background: #87AAAA;
+  font-family:Arial, Helvetica, sans serif;
+  text-transform:uppercase;
+ }
+ table {
+    width: 800px; 
+    background-color:#C8E3D4; }
+  table, tr, td, th {
+  border: 2px solid #F6EABE;  
+  border-collapse: none;
+  text-allign: center;
+  padding: 5px;
+  margin: 0;
+ }
+  
+ h2 {font-family:verdana;
+ font-size: 17px}
+
+ Img { width: 100px; }
+
+ p { font-size: 15px;
+ font-family: courier }
+ a {font-size: 10px}
+
+ p, a {text-transform: none;}
+
+ h2 {font-size: 15px;}
