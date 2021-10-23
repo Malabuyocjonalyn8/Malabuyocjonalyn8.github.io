@@ -1,13 +1,13 @@
 body {
-  background: #87AAAA;
+  background: #99A799;
   font-family:Arial, Helvetica, sans serif;
   text-transform:uppercase;
  }
  table {
     width: 800px; 
-    background-color:#C8E3D4; }
+    background-color:#ADC2A9;}
   table, tr, td, th {
-  border: 2px solid #F6EABE;  
+  border: 2px solid #D3E4CD
   border-collapse: none;
   text-allign: center;
   padding: 5px;
